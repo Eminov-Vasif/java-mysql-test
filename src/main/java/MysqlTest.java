@@ -9,7 +9,7 @@ import java.sql.Statement;
 public class MysqlTest {
 
     public static void main(MysqlxDatatypes.Scalar.String[] args) {
-
+        System.out.println("programming starrting");
         Connection connection = null;
 
         try {
